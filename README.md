@@ -7,3 +7,5 @@ Functionality: i) Get the current temperature and humidity in a room and store i
 Languages Used: IoS App: Swift    Backend API: Python
 
 DB: Sqlite3
+
+Components Used: 1) Raspberry Pi 2)[Grove Base Hat](https://www.seeedstudio.com/Grove-Base-Hat-for-Raspberry-Pi.html) 3) [Temperature and Humidity Sensor](https://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/)
